@@ -5,7 +5,7 @@ It is built ontop of the [DeOldify Project](https://github.com/jantic/DeOldify) 
 
 
 
-## Steps recuired to build and run the Image Colorizer
+## Steps recquired to build and run the Image Colorizer
  - Clone the GitHub Repo.
  `git clone https://github.com/jantic/DeOldify`
 
